@@ -1,7 +1,3 @@
-# quickRecapJavaScript
-revisiting Javascript
-Changing the readme.md
+#Revisiting Javascript concepts again !!
 
-again changing readme.md
-
-making another branch named feature2
+1. There are multiple files constituting different topics
